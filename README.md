@@ -1,8 +1,10 @@
 # Greetings, I'm Nomiya! 👨‍💻
 
+![Profile Image](C:\Users\infinitt\Downloads\5011837)
+
 ## About Me
 
-With a strong foundation in international trade and finance, I have transitioned into the IT healthcare sector, where I utilize my skills to support and develop technology solutions that improve patient care and healthcare operations.
+With a strong foundation in international trade and finance, I have transitioned into the IT healthcare sector, where I utilize my skills to support and develop technology solutions that improve patient care and healthcare operations. A fun fact about me is that I am still learning coding during my free time!
 
 ## My Skills
 
