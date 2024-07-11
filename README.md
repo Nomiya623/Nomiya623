@@ -1,6 +1,6 @@
 # Greetings, I'm Nomiya! 👨‍💻
 
-![Profile Image](C:\Users\infinitt\Downloads\5011837)
+![Profile Image](https://drive.google.com/uc?id=188J5wGF9xau6WiNNWAD_5kyhtAycS7vH)
 
 ## About Me
 
