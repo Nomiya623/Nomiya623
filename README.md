@@ -72,6 +72,20 @@ With a strong foundation in international trade and finance, I have transitioned
 - **English:** Expert
 - **Russian, Korean, Kazakh, Mongolian:** Fluent
 - **French:** Business level
+  
+## Certifications 📜
+
+- **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/certification/Nomiya623/responsive-web-design)  
+  Issued July 2024  
+  Credential ID: nomiya623-rwd
+
+- **Scientific Computing with Python** from [freeCodeCamp](https://www.freecodecamp.org/certification/Nomiya623/scientific-computing-with-python-v7)  
+  Issued June 2024  
+  Credential ID: nomiya623-scwp
+
+- **Data Analysis with Python** from [freeCodeCamp](https://www.freecodecamp.org/certification/Nomiya623/data-analysis-with-python-v7)  
+  Issued July 2024  
+  Credential ID: nomiya623-dawp
 
 ## Connect with Me 📬
 
