@@ -19,7 +19,6 @@ With a strong foundation in international trade and finance, I have transitioned
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 - **Backend:**
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
@@ -29,13 +28,42 @@ With a strong foundation in international trade and finance, I have transitioned
 - **Database:**
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-- **Tools & Technologies:**
+- **DevOps & CI/CD:**
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+  
+- **Cloud Platforms:**
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+
+- **Server & Configuration Management:**
   ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+- **Version Control:**
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+
+- **Collaboration & Communication:**
+  ![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?logo=mattermost&logoColor=white)
+  ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams&logoColor=white)
+
+- **Development Tools:**
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=google-drive&logoColor=white)
+
 
 ## Experience 📊
 
