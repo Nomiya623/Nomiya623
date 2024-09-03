@@ -73,23 +73,25 @@ With a strong foundation in international trade and finance, I have transitioned
 - **Russian, Korean, Kazakh, Mongolian:** Fluent
 - **French:** Business level
 
+
 ## Personal Projects
 
-- [민간피부 맞춤형 패키지 사이트](https://github.com/Nomiya623/miniProject1)  
-  A custom skin care package site designed to offer personalized skincare solutions.  
-  **Technologies:** HTML5, CSS3, JavaScript, JQuery, Vue.js, JAVA, Oracle
+- [💆‍♀️ 민간피부 맞춤형 패키지 사이트](https://github.com/Nomiya623/miniProject1)  
+  A custom skincare package site offering personalized solutions.  
+  **Technologies:** 🌐 HTML5, CSS3, JavaScript, Vue.js | 🖥️ Java | 🗄️ Oracle Database
 
-- [Eco Market](https://github.com/Nomiya623/teamProject1)  
-  An e-commerce platform focused on selling eco-friendly food products.  
-  **Technologies:** HTML5, CSS3, JavaScript, JQuery, Vue.js, JAVA, MySQL, Spring, MyBatis
+- [🌱 Eco Market](https://github.com/Nomiya623/teamProject1)  
+  An e-commerce platform for selling eco-friendly products.  
+  **Technologies:** 🌐 HTML5, CSS3, JavaScript, Vue.js | 🖥️ Java, Spring, MyBatis | 🗄️ MySQL
 
-- [Hospital Management System](https://github.com/Nomiya623/Hospital_management_System)  
-  A comprehensive hospital management system built with ASP.NET.  
-  **Technologies:** ASP.NET, Visual Studio 2022 with C# Language, SQL-Server 2021
+- [🏥 Hospital Management System](https://github.com/Nomiya623/Hospital_management_System)  
+  A robust system for managing hospital operations.  
+  **Technologies:** 🖥️ ASP.NET Core, C# | 🗄️ SQL Server
 
-- [Mini Project Landing](https://github.com/Nomiya623/mini-project-landing)  
-  A landing page designed for a mini project showcase.  
-  **Technologies:** HTML5, CSS3, JavaScript, JQuery, Vue.js
+- [🌐 Mini Project Landing](https://github.com/Nomiya623/mini-project-landing)  
+  A modern landing page for project showcases.  
+  **Technologies:** 🌐 HTML5, CSS3, JavaScript, Vue.js
+
 
 
 ## Certifications 📜
@@ -105,6 +107,15 @@ With a strong foundation in international trade and finance, I have transitioned
 - **Data Analysis with Python** from [freeCodeCamp](https://www.freecodecamp.org/certification/Nomiya623/data-analysis-with-python-v7)  
   Issued July 2024  
   Credential ID: nomiya623-dawp
+
+- **AWS Cloud Practitioner Course Completion Certificate**  
+  Issued: **July** 2024
+  Certificate ID: **134_3_5989899_1722386523**  
+
+- **DevOps Engineer Certificate**  
+  Issued: **July** 2024
+  Certificate ID: **2DF18B6D2B2C-2EE5E1049EB0-2DF17FDCF386**  
+
 
 ## Connect with Me 📬
 
