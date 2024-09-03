@@ -72,7 +72,30 @@ With a strong foundation in international trade and finance, I have transitioned
 - **English:** Expert
 - **Russian, Korean, Kazakh, Mongolian:** Fluent
 - **French:** Business level
-  
+
+## Personal Projects
+
+### 민간피부 맞춤형 패키지 사이트
+[Visit Repository](https://github.com/Nomiya623/miniProject1)
+- A custom skin care package site designed to offer personalized skincare solutions.
+
+### Eco Market (친환경 먹거리 판매 사이트)
+[Visit Repository](https://github.com/Nomiya623/teamProject1)
+- An e-commerce platform focused on selling eco-friendly food products.
+
+### Hospital Management System Project In ASP.NET
+[Visit Repository](https://github.com/Nomiya623/Hospital_management_System)
+- A comprehensive hospital management system built with ASP.NET.
+
+### Python Practice Examples
+[Visit Repository](https://github.com/Nomiya623/Python)
+- A collection of Python practice examples, covering various programming concepts and techniques.
+
+### Mini Project Landing
+[Visit Repository](https://github.com/Nomiya623/mini-project-landing)
+- A landing page designed for a mini project showcase.
+
+
 ## Certifications 📜
 
 - **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/certification/Nomiya623/responsive-web-design)  
