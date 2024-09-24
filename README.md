@@ -140,7 +140,7 @@ With a strong foundation in international trade and finance, I have transitioned
   Issued: **July** 2024
   Certificate ID: **134_3_5989899_1722386523**  
 
-- **DevOps Engineer Certificate**  
+- **DevOps Engineer Course Completion Certificate**  
   Issued: **July** 2024
   Certificate ID: **2DF18B6D2B2C-2EE5E1049EB0-2DF17FDCF386**  
 
