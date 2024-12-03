@@ -1,6 +1,6 @@
 # Greetings, I'm Nomiya! 👨‍💻
 
-![Profile Image](https://drive.google.com/uc?id=1XGT_ANa3MnyvZ4yp_P2TpIur4OsDBvPC)
+![Profile Image](https://drive.google.com/uc?export=download&id=1qeKteXv9z3BaOMLn4rT_NPGpDcP5lj4S)
 
 ## About Me
 
