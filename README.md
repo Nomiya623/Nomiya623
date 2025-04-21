@@ -50,8 +50,6 @@ With a strong foundation in international trade and finance, I have transitioned
 - **Version Control:**
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
-  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
 
 - **Collaboration & Communication:**
   ![Mattermost](https://img.shields.io/badge/Mattermost-0072C6?logo=mattermost&logoColor=white)
